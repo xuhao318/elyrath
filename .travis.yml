@@ -7,3 +7,4 @@ jdk:
 script:
   - chmod +x ./gradlew
   - ./gradlew assemble
+  - ./gradlew check

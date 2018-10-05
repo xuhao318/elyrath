@@ -5,5 +5,5 @@ jdk:
   - openjdk10
 
 script:
-  - chmod +x ./gradle
-  - ./gradle assemble
+  - chmod +x ./gradlew
+  - ./gradlew assemble
